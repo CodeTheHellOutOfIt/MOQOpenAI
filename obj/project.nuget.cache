@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UVve9yLY8K/4aCtCvJMpyfYUoTayz6c3E7O23nhDiIAEolXQ/1d4LDFb0kcdnbNTUPdlOQkE+iz/56CNuT+1qA==",
+  "success": true,
+  "projectFilePath": "C:\\Work Details\\Projects\\MOQOpenAI\\AIMOQUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g675241\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\g675241\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\g675241\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\g675241\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\g675241\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\g675241\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
